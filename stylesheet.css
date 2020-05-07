@@ -1,0 +1,154 @@
+body
+{
+  padding-top:100px;
+  background-color: #cbf1f5;
+}
+div{
+  text-align:center;
+  padding : 3px;
+  color:#66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+.top p{
+  font-weight:normal;
+  font-size:30px;
+}
+.top h1
+{
+  font-size:50px;
+}
+.top
+{
+  line-height:2rem;
+}
+.cld-1
+{
+  position:absolute;
+  top:15%;
+  left:70%;
+}
+.cld-2
+{
+  position:absolute;
+  top:25%;
+  left:20%;
+}
+.mountain{
+  text-align: center;
+  margin-left:30%;
+}
+.profile{
+font-family: 'Open Sans', sans-serif;
+  color:black;
+}
+.my-pic{
+  border-radius: 100%;
+}
+.my-profile
+{
+width:30%;
+margin-left: auto;
+margin-right: auto;
+line-height: 2;
+}
+.profile h2
+{
+  color:#11999E;
+}
+.skills h2{
+font-family: 'Open Sans', sans-serif;
+  color:#11999E;
+}
+.skill-row
+{
+font-family: 'Open Sans', sans-serif;
+  color: black;
+  width:50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:100px;
+  text-align:left;
+  line-height:2;
+  margin-bottom:40px;
+}
+.skill-row h3
+{
+  color:#11999E;
+}
+.skill-row-para1{
+  clear:left;
+}
+.skill-row-para2{
+  clear:right;
+}
+.float-right
+{
+  text-align:right;
+}
+.code-img{
+  width:25%;
+  float:left;
+  margin-right:10px;
+  border-radius: 100%;
+}
+.chilli-img{
+  width:25%;
+  float:right;
+  margin-left:10px;
+  margin-bottom:20px;
+}
+.contact-me
+{
+  font-family: 'Open Sans', sans-serif;
+    color:black;
+    width:30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+ a{
+  color:#11999E;
+  text-decoration: none;
+}
+.bottom-container
+{
+  font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+hr
+{
+  border-style: dotted;
+border-bottom:0px;
+border-right: 0px;
+border-left:0px;
+color: grey;
+border-width:thick;
+  width:5%;
+  padding: 8px;
+  margin: 100px auto;
+}
+.btn button{
+  padding:6px;
+  border-radius:3px;
+  background-color:#11999E;
+  color:white;
+  border:0px;
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+.btn button:hover
+{
+  background-color:white;
+  color:#11999E;
+}
+.bottom-container
+{
+  background-color: #66BFBF;
+  line-height:2;
+  border-radius: 5px;
+}
+.footer-link{
+  margin:10px;
+}
+.footer-link:hover{
+  color:white;
+}
